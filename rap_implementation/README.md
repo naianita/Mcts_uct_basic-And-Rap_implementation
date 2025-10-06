@@ -6,8 +6,7 @@ This project implements Monte Carlo Tree Search (MCTS) with Large Language Model
 ## Paper Selection
 **Paper:** "Reasoning via Planning: Language Models as Zero-Shot Planners" (Hao et al., 2023)  
 **Conference:** EMNLP 2023  
-**Original Domains:** Blocksworld, Math Reasoning (GSM8k), Logical Reasoning  
-**Our Application:** Story Narrative Planning
+
 
 ## Key Contributions
 
