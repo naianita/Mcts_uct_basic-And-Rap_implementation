@@ -187,10 +187,3 @@ This implementation successfully demonstrates the RAP framework's applicability 
 
 Hao, S., Gu, Y., Ma, H., Hong, J. J., Wang, Z., Wang, D. Z., & Hu, Z. (2023). Reasoning with Language Model is Planning with World Model. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)*.
 
-## Code Repository Structure
-
-```
-├── MCTS_UCT.ipynb           # Base MCTS-UCT implementation
-├── RAP_MCTS.ipynb           # RAP with LLM integration
-└── README.md                # This document
-```
